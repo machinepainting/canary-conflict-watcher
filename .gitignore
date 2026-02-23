@@ -1,0 +1,31 @@
+# Canary runtime files (generated in user projects, not tracked in the repo)
+.canary-log.md
+.canary-log.json
+.canary.json
+.canary-locks.json
+.canary-deps.json
+.canary-snapshots.json
+.canary-history.json
+.canary-alert
+.canary-notified.json
+.canary-broadcast.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
